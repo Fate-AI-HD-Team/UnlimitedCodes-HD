@@ -1,6 +1,6 @@
 # Fate-UC-HD
 Fate/Unlimited Codes HD Mod texture pack
-- Belongs to PSP variant.
+- Belongs to PSP variant. NOTE: I FORGOT TO PUSH THE COMMIT CHANGES I DID IN MAY. MY APOLOGIES!
 - PS2 under development (so no, you can't find it here, however, due similiarities, we gonna port the work which fits there).
 
 ![Comparison01a](https://user-images.githubusercontent.com/63470108/167704792-2c945c21-0d47-4006-aa98-934c4d200e9a.png)
