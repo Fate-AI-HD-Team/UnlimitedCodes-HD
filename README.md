@@ -13,5 +13,5 @@ Before continue reading
 - [PCSX2 Discord](https://discord.gg/RW4DTBX4jm)
 
 
-## Developed with Unlimited Codes discord.
+## Thanks for the early  contributions of Unlimited Codes discord members.
 - USA/Europe (NPUH10009/NPEH00007) version
